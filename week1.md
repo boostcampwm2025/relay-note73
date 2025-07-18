@@ -225,7 +225,14 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 이 조건에 맞게 추천해줘!
 ```
 
-#### 결과
+<details><summary>결과</summary>
+
+<img width="729" height="1016" alt="image" src="https://github.com/user-attachments/assets/c1387ad7-d272-4d16-91ab-5bc3ae908f78" />
+
+</details>
+
+
+
 
 
 ### 2번 프롬프트
@@ -239,7 +246,14 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
  만들어줘. 질문은 긍정적이고 유쾌한 답변을 유도해야 해.
 ```
 
-#### 결과
+<details><summary>결과</summary>
+
+
+<img width="1546" height="1184" alt="image" src="https://github.com/user-attachments/assets/00c46210-c6c2-4759-8471-26f833d87f43" />
+
+
+</details>
+
 
 ### 3번 프롬프트
 
@@ -247,9 +261,11 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 팀원들과 10분 이내로 가볍게 이야기 하면서 아이스 브레이킹 할 수 있는 대화 주제 알려줘
 ```
 
-### 결과
-
+<details><summary>결과</summary>
 가볍게 이야기하기엔 부담스러운 주제가 많았다.
+
+</details>
+
 
 ## ai에게 점심메뉴 추천받기
 
@@ -258,7 +274,9 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 ```
 {내위치} 근처의 맛집 찾아서 점심 메뉴 추천해줘
 ```
-#### 결과 
+<details><summary>결과</summary>
+총 5개의 식당이름, 간략한 메뉴소개 추천받음
+</details>
 
 총 5개의 식당 이름과, 간략한 메뉴 소개
 
@@ -280,7 +298,11 @@ AI야, 나 지금 배고픈데 점심 뭐 먹을까?
 메뉴 이름 + 간단한 이유도 부탁해!
 ```
 
-#### 결과
+<details><summary>결과</summary>
+
+<img width="805" height="851" alt="image" src="https://github.com/user-attachments/assets/64e6cf3e-f609-4bfa-870d-c6c4aab1ebf2" />
+
+</details>
 
 ### 3번 프롬프트
 
@@ -296,5 +318,8 @@ AI야, 나 지금 배고픈데 점심 뭐 먹을까?
 그리고 어떤 가게를 추천하는지도 알려줘.
 ```
 
-#### 결과
+<details><summary>결과</summary>
 
+<img width="1618" height="764" alt="image" src="https://github.com/user-attachments/assets/ac1d5838-425a-43ba-826d-3525b39f4791" />
+
+</details>
