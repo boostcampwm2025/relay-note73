@@ -114,6 +114,8 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 <details><summary>사용예시</summary>
 
 > 사용 AI: Perplexity Gemini모델 사용
+<img width="1560" height="1302" alt="image" src="https://github.com/user-attachments/assets/2c6424b3-9b71-409e-bb71-f670be7bf10b" />
+<img width="1552" height="734" alt="image" src="https://github.com/user-attachments/assets/457dba58-5078-4735-845d-e07118e00aa4" />
 
 </details>
 
@@ -160,6 +162,7 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 <details><summary>프롬포트</summary>
 
 > 사용 AI: ChatGPT
+<img width="813" height="1018" alt="image" src="https://github.com/user-attachments/assets/220eb131-e04c-4868-9c6f-2a406494ccba" />
 
 </details>
 
@@ -410,20 +413,10 @@ https://chatgpt.com/g/g-ppek1qROk-4keosmanhwa-saengseonggi
 이 조건에 맞게 추천해줘!
 ```
 
-<details><summary>결과</summary>
-
-<img width="729" height="1016" alt="image" src="https://github.com/user-attachments/assets/c1387ad7-d272-4d16-91ab-5bc3ae908f78" />
-
-</details>
-
 ### 4. ai에게 점메추 받기
 
 ```
 {내위치} 근처의 맛집 찾아서 점심 메뉴 추천해줘
 ```
-<details><summary>결과</summary>
-총 5개의 식당이름, 간략한 메뉴소개 추천받음
-</details>
 
-총 5개의 식당 이름과, 간략한 메뉴 소개
 
