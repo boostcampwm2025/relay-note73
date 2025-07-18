@@ -73,8 +73,7 @@
 – 부정 요청 경고는 볼드체로 강조  
 ```
 
-### 1번 사용예시
-<details><summary>사용예시</summary>
+<details><summary>결과</summary>
 
 > 사용 AI: ChatGPT
 https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
@@ -110,8 +109,7 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
     ---
 ```
 
-### 2번 사용예시
-<details><summary>사용예시</summary>
+<details><summary>결과</summary>
 
 > 사용 AI: Perplexity Gemini모델 사용
 <img width="1560" height="1302" alt="image" src="https://github.com/user-attachments/assets/2c6424b3-9b71-409e-bb71-f670be7bf10b" />
@@ -158,8 +156,7 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 자, 이제 학습 시작해볼게. 나의 프롬프트와 사용 방식이 적절한지, 필요할 때는 피드백도 부탁해!
 ```
 
-### 3번 사용예시
-<details><summary>프롬포트</summary>
+<details><summary>결과</summary>
 
 > 사용 AI: ChatGPT
 <img width="813" height="1018" alt="image" src="https://github.com/user-attachments/assets/220eb131-e04c-4868-9c6f-2a406494ccba" />
