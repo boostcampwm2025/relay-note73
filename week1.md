@@ -202,8 +202,12 @@ https://chatgpt.com/share/6879f0cb-c1f4-8004-b654-b117b6463695
 
 ```
 
-#### 결과
 
+<details><summary>결과</summary>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/417a53a7-b4ed-45ef-b8e6-4cdab36e9df1" />
+
+</details>
 
 
 
