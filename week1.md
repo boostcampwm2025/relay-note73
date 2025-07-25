@@ -511,3 +511,27 @@ AI는 바보같아서 내 프롬프트를 쉽게 알아듣지를 못한다.
 심지어 영상으로 만드려고 하니 비율 조절도 돈 내고 쓰라고 한다.
 
 그래서 영상 하나 만드는 데 자원이 많이 들어서 이렇게 돈을 받는구나 싶었다.. 그래서 결론적으로 실패했다
+
+
+-------
+
+## 최지민 - AI를 활용한 메타 인지 이미지 생성하기
+
+제가 수행할 릴레이 미션은 메타인지를 통해 스스로를 알고 이를 주제로 Ai 활용해서 이미지 생성 하기였습니다.
+
+- chat gpt
+- canva
+- 플라멜
+- 
+다양한 이미지 생성 도구 중 저는 chat gpt 를 사용하여 이미지를 생성했고, 프롬프트 구성 요소 또한 예시를 참고해서 작성했습니다.
+
+```
+주제 a developer fighting sleep while rushing to meet a looming deadline 마감 시간 2시간을 앞두고 졸음과 싸우는 개발자 매체 digital painting, animated sketch, semi-realistic render 디지털 페인팅, 애니메이션풍 스케치, 세미 리얼리스틱 렌더 스타일 anime style, lo-fi, time-pressure aesthetic 애니메이션풍, 로파이 감성, 시간 압박 분위기 조명 flickering monitor light, dim desk lamp, blue-tinted shadows 깜빡이는 모니터 불빛, 어두운 책상 조명, 푸른 그림자 색감 desaturated blues, pale yellows, drowsy overtones 물빠진 블루, 창백한 노랑, 졸림을 유도하는 색감 구도 over-the-shoulder view, slight top-down angle, zoom-in on drooping eyelids and countdown timer 어깨 너머 시점, 약간의 탑다운 각도, 감기는 눈과 남은 시간 타이머에 클로즈업 감정 urgency, exhaustion, denial, micro-sleep 초조함, 탈진, 부정, 깜빡 잠듦
+```
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6c6b84c5-e014-4529-a631-fcb290803dd9" />
+
+
+### 회고
+
+저는 미션 수행 계획 수립 당시 구체적으로 계획을 세우지 않았어서 미루고 미루다 한 번 수행 했었는데,  다음 미션 부터는 수행 계획을 구체적으로 세우고 제대로 미션을 수행 해야겠다고 반성했습니다.
