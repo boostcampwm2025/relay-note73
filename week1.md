@@ -549,17 +549,17 @@ AI는 바보같아서 내 프롬프트를 쉽게 알아듣지를 못한다.
 **1주차 회고**
 - 매일 학습을 하며 마감 시간에 쫓기는 것을 밤샘 + AI 활용을 통해 문제 해결을 하는 모습을 그려보았습니다. 어쩌다보니 웹툰에는 AI에 맡기고? 진행한 듯이 재밌게 그려졌지만, 이를 통해 부족한 창작성을 AI가 채워주는 도움을 얻었습니다.
   
-  <br/>
-- **사용한 프롬프트**
-    ```
-    Create a 4‑panel webtoon about a junior developer struggling to balance her study and development tasks on schedule.
-    1st panel: She's confused and panicking.
-    2nd panel: She searches Google but is overwhelmed by too much information.
-    3rd panel: Time keeps slipping away as the clock's hands spin.
-    4th panel: After pulling an all‑nighter with AI's help, she finally succeeds, looking relieved and proud.
-    Background: a desk with dual monitors.
-    Style: simple cartoon.
-    Emotion: chaotic yet fulfilled.
-    ```
+**사용한 프롬프트 및 결과**
+
+```
+Create a 4‑panel webtoon about a junior developer struggling to balance her study and development tasks on schedule.
+1st panel: She's confused and panicking.
+2nd panel: She searches Google but is overwhelmed by too much information.
+3rd panel: Time keeps slipping away as the clock's hands spin.
+4th panel: After pulling an all‑nighter with AI's help, she finally succeeds, looking relieved and proud.
+Background: a desk with dual monitors.
+Style: simple cartoon.
+Emotion: chaotic yet fulfilled.
+```
 
 <img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/43477cbb-d8e1-4046-bd64-1a8e08ab731e" />
