@@ -593,6 +593,7 @@ Emotion: chaotic yet fulfilled.
 ### 결과 & 느낀점
 <img width="892" height="1080" alt="image" src="https://github.com/user-attachments/assets/c91b3ac1-a06b-4a4c-9449-8e9ac365f719" />
 
+https://boostcampwm10-ch.slack.com/archives/C095HM7NE81/p1753407517264569
 https://suno.com/s/fgCWKVKwDiiNER94 (다른 분이 Slack에 릴프로 올린 랩 가사로 만든 노래)  
 https://suno.com/s/vAEWyrRB6NYajwCF (메타인지 가사 K-POP)  
 위의 링크는 Slack에 공유한 음악이다.  
