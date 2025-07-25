@@ -591,6 +591,7 @@ Emotion: chaotic yet fulfilled.
 위의 사진은 일주일 동안 생성한 음악중에 조금 괜찮은 것을 모아둔 저장소 사진이다. 일주일동안 매일 노래를 몇곡씩 만들면서 좋은 음악을 저장하고, 금요일에 Slack에 한곡을 뽑아서 올릴 계획이었다.
 
 ### 결과 & 느낀점
+<img width="892" height="1080" alt="image" src="https://github.com/user-attachments/assets/c91b3ac1-a06b-4a4c-9449-8e9ac365f719" />
 
 https://suno.com/s/fgCWKVKwDiiNER94 (다른 분이 Slack에 릴프로 올린 랩 가사로 만든 노래)  
 https://suno.com/s/vAEWyrRB6NYajwCF (메타인지 가사 K-POP)  
