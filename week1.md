@@ -535,3 +535,31 @@ AI는 바보같아서 내 프롬프트를 쉽게 알아듣지를 못한다.
 ### 회고
 
 저는 미션 수행 계획 수립 당시 구체적으로 계획을 세우지 않았어서 미루고 미루다 한 번 수행 했었는데,  다음 미션 부터는 수행 계획을 구체적으로 세우고 제대로 미션을 수행 해야겠다고 반성했습니다.
+
+---
+
+## 김지원 - AI로 웹툰 생성하기
+
+**수행 경험 공유**
+- AI의 역할: 웹툰 프롬프트에 따라 웹툰 생성하기.
+- AI가 없었다면 직접 그리는 데 상당한 시간이 소요되었을 것 같습니다.
+- 해당 퀘스트를 slack의 random채널에 공유하며, 커뮤니티의 활성화에 도움이 되었습니다.
+- AI를 통해 여러 버전의 웹툰 제작을 실행해보며 웹툰 제작 프롬프트를 잘 이해할 수 있게 되었습니다.
+  
+**1주차 회고**
+- 매일 학습을 하며 마감 시간에 쫓기는 것을 밤샘 + AI 활용을 통해 문제 해결을 하는 모습을 그려보았습니다. 어쩌다보니 웹툰에는 AI에 맡기고? 진행한 듯이 재밌게 그려졌지만, 이를 통해 부족한 창작성을 AI가 채워주는 도움을 얻었습니다.
+  
+  <br/>
+- **사용한 프롬프트**
+    ```
+    Create a 4‑panel webtoon about a junior developer struggling to balance her study and development tasks on schedule.
+    1st panel: She's confused and panicking.
+    2nd panel: She searches Google but is overwhelmed by too much information.
+    3rd panel: Time keeps slipping away as the clock's hands spin.
+    4th panel: After pulling an all‑nighter with AI's help, she finally succeeds, looking relieved and proud.
+    Background: a desk with dual monitors.
+    Style: simple cartoon.
+    Emotion: chaotic yet fulfilled.
+    ```
+
+<img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/43477cbb-d8e1-4046-bd64-1a8e08ab731e" />
