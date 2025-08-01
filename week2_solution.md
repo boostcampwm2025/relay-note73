@@ -183,12 +183,37 @@ ai의 이미지 생성 기능을 사용해본 적이 없는데 새로운 도전�
 ## 🥸 J177\_이규태
 
 ## 선택 퀘스트
+### 🎨 퀘스트 5: 회고 4컷만화 그리기
 
 ## 활동 사항
+**미션을 해결하는 한 주간의 저의 모습을 그림으로 회고한다는 느낌으로 4컷 만화를 만들었습니다.**  
+**컨디션 관리의 중요성을 재미있게 표현하기 위해 노력했습니다.**
 
-<details>
-<summary>눌러 보기</summary>
+<img width="512" height="512" alt="4컷 만화" src="https://github.com/user-attachments/assets/b0b97fa9-99aa-49ff-af11-a0abfdc84326" />
 
+<details> <summary> 프롬프트 </summary>
+  
+    아래 내용을 토대로 4컷 만화를 생성해줘. 4컷 만화가 하나의 이미지 안에 존재해야해.
+    
+    1컷: 야심찬 월요일
+
+    "An illustration of a young software developer on a bright Monday morning. He is smiling enthusiastically while sitting at his desk with a laptop open. The laptop screen shows a clean code editor. Sunlight streams in through a window, illuminating the room. The overall atmosphere is full of hope and energy."
+
+    2컷: 목요일 새벽, 지쳐가는 시간
+
+    "An illustration of the same software developer on a dark Thursday early morning. The time on the clock shows 3:00 AM. He is asleep, slumped over his desk. His laptop screen is filled with error messages. The desk is cluttered with empty energy drink cans. The room is dimly lit, creating a feeling of exhaustion and burnout."
+
+    3컷: 주말, 완벽한 회복
+
+    "An illustration of the same developer on a peaceful Saturday afternoon. He is sleeping deeply under a blanket in a sunlit room. A pet cat or dog is sleeping peacefully next to him. The atmosphere is calm and restorative, representing perfect rest and recovery."
+
+    4컷: 다시 월요일
+
+    "An illustration of the same developer on a bright Monday morning, similar to the first panel. He is back at his desk with a laptop open. The screen shows a project management tool with the title '오늘의 미션'. He has a faint, weary smile on his face that hints at the repeating cycle of work. The overall mood is a mixture of hope and subtle bitterness."
 </details>
 
 ## 느낀점 및 결론
+이런 방식으로 회고해보는 경험은 처음이라 제가 잘 작성하고 시도했는지는 모르겠습니다.  
+그래도 최대한 원하는 그림을 뽑아내고자, 여러 번의 시행착오를 거치며 프롬프트를 작성했습니다.  
+이번에는 재밌게 일상을 담아내는 방식으로 작성했지만,  
+다음에 기회가 있다면 좀 더 학습적인 부분으로 접근해보는 것도 좋을 것 같다고 생각했습니다.
