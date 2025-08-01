@@ -34,7 +34,7 @@
 
 ### AI에게 하소연하고 공감받기
 #### 참고 자료
-<사진>
+<img src="https://github.com/user-attachments/assets/eef87e96-8a70-4271-bb6d-e5c3bc0aeaa0" height="800" width="400">
 
 #### 활용 방안
 - 미션하며 받은 스트레스를 AI에게 하소연하고 공감받아 해소하기!
